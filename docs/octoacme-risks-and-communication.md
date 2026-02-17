@@ -20,9 +20,12 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, design, release management)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- **Release Manager**: Coordinate release-specific communications
+- **Customer Support Liaison**: Ensure support team is informed of customer-impacting changes
+- **UX Designer**: Keep design stakeholders updated on user experience work
 
 ## Communication Templates
 Weekly Status Template:
