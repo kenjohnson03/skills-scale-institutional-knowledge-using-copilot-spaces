@@ -11,10 +11,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
 2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+3. **UX Designer**: Identify features requiring design work and create design timeline
+4. Estimate scope (T-shirt sizing or story points)
+5. Define Definition of Done (DoD)
+6. Identify dependencies and integration points
+7. Create release plan and milestone map with **Release Manager**
+8. **Customer Support Liaison**: Review backlog for customer-impacting items and support readiness needs
 
 ## Backlog Item Template
 - Title:
@@ -24,6 +26,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Estimate:
 - Owner:
 - Related docs/links:
+- **UX Design Required**: Yes/No (if yes, link to design specs/mockups)
+- **Support Impact**: Yes/No (if yes, note documentation/training needs)
 
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length
@@ -38,6 +42,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
+- [ ] Release timeline and milestones agreed with **Release Manager**
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] **UX Designer**: Design requirements identified and timeline established
+- [ ] **Customer Support Liaison**: Customer impact assessment completed

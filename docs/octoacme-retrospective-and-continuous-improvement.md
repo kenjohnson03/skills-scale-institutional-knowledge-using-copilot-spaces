@@ -16,6 +16,10 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Include perspectives from all roles:
+  - **UX Designer**: Design process and collaboration effectiveness
+  - **Release Manager**: Release process and deployment efficiency
+  - **Customer Support Liaison**: Customer feedback themes and support readiness
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines

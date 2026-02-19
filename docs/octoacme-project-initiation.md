@@ -18,6 +18,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- **UX Designer**: Early assessment of design complexity and user research needs
+- **Release Manager**: Initial release strategy and deployment considerations
+- **Customer Support Liaison**: Customer impact analysis and support preparation requirements
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +31,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Product Manager:
+  - Project Manager:
+  - Developers:
+  - UX Designer (if applicable):
+  - Release Manager:
+  - Customer Support Liaison:
+  - Other roles:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
